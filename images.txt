@@ -5,4 +5,21 @@ kasmweb/nginx:1.25.3
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
+m4th1eub/photopea-offline
+1panel/maxkb
+cooderl/wewe-rss-sqlite
+lobehub/lobe-chat
+langgenius/dify-web
+justsong/one-api
+jxxghp/moviepilot
+xhofe/alist
+gdy666/lucky
+yipengfei/movie-robot
+vaultwarden/server
+mzz2017/v2raya
+0nlylty/dockercopilot
+jxxghp/moviepilot-ocr
+frooodle/s-pdf
+dnomd343/alltube
+
 
